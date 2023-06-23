@@ -1,4 +1,4 @@
-name: "🐛 버그 제보"
+name: "🐛 Bug"
 description: "버그가 생겼어요"
 title: "🐛 [BUG] - <title>"
 labels: [
