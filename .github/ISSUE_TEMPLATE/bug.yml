@@ -2,7 +2,7 @@ name: "🐛 버그 제보"
 description: "버그가 생겼어요"
 title: "🐛 [BUG] - <title>"
 labels: [
-  "bug"
+  "🐛 Type: Bug"
 ]
 body:
   - type: textarea
@@ -18,7 +18,7 @@ body:
     attributes:
       label: "Reproduction steps"
       description: 버그를 발생시키는 방법을 기록
-      value: |
+      placeholder: |
         1. 로그인 페이지로 이동
         2. id, pw 입력
         3. '로그인' 버튼 클릭
